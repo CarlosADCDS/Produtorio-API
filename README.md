@@ -4,9 +4,10 @@ Inicialmente verifique se o Node.js está instalado em seu computador
 
 Para executar o projeto é necessário instalar as dependências executando npm install na raíz do projeto.
 
-Em seguida executar o seguinte comando para executar o projeto utilize o npm start.
+Em seguida, para executar o projeto utilize o comando npm start.
 
-Rotas
+
+Rotas:
 
 /newIterativoProdutorio/m/n
 
