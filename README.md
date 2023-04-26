@@ -8,10 +8,10 @@ Em seguida executar o seguinte comando para executar o projeto utilize o npm sta
 
 Rotas
 
-/newIterativoProdutorio/:m/:n
+/newIterativoProdutorio/m/n
 
 Nesta rota, temos o cálculo utilizando uma função iterativa onde m e n são os parâmetros.
 
-/newRecursivoProdutorio/:m/:n
+/newRecursivoProdutorio/m/n
 
 Nesta rota temos o cálculo utilizando uma função recursiva onde m e n são os parâmetros.
